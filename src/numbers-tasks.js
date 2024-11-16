@@ -124,7 +124,6 @@ function getAngleBetweenVectors(x1, y1, x2, y2) {
   } else {
     angle = Math.acos(cos);
   }
-  
   return angle;
 }
 
